@@ -2,7 +2,7 @@
 // Level 10 the Buying Inventory Challenge
 // Build a simple menu system to display prices of selected items
 // The challenge requires the use of either switch statments or switch expressions
-// My focus for this exercise will be on switch statments
+// My focus for this exercise is to use switch statments
 
 //Simple store menu system, user should select a number 1 - 7.  
 Console.WriteLine ("Welcome to Tortuga Outfitters");
